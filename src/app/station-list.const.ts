@@ -1,0 +1,73 @@
+export const stationList=[
+  {
+    'id':1004326,
+  'pathAttributeId':110630,
+  'stopId':24975,
+  'sequenceNo':3,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+},
+  {
+    'id':1004327,
+  'pathAttributeId':110630,
+  'stopId':24976,
+  'sequenceNo':4,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+},
+{
+  'id':1004328,
+  'pathAttributeId':110630,
+  'stopId':24977,
+  'sequenceNo':5,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+},
+{
+  'id':1004329,
+  'pathAttributeId':110630,
+  'stopId':24978,
+  'sequenceNo':6,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+},
+{
+  'id':1003101,
+  'pathAttributeId':118520,
+  'stopId':36842,
+  'sequenceNo':75,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+},
+{
+  'id':1003102,
+  'pathAttributeId':118520,
+  'stopId':36843,
+  'sequenceNo':76,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+},
+{
+  'id':1003103,
+  'pathAttributeId':118520,
+  'stopId':36844,
+  'sequenceNo':77,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+},
+{
+  'id':1003104,
+  'pathAttributeId':118520,
+  'stopId':36845,
+  'sequenceNo':78,
+  'type':'0',
+  'typeAttribute':'',
+  'version':0
+}];
